@@ -6,4 +6,6 @@ dj-database-url
 python-dotenv
 psycopg2-binary
 requests
+gunicorn
+whitenoise
 requests-toolbelt
